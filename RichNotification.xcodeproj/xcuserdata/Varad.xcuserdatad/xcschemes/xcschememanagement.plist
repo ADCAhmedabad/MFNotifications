@@ -7,12 +7,7 @@
 		<key>AnimatedNotification.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>3</integer>
-		</dict>
-		<key>CustomeNotification.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<key>RichNotification.xcscheme</key>
 		<dict>
@@ -22,12 +17,12 @@
 		<key>RichNotifications.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>1</integer>
 		</dict>
 		<key>TestingNotifications.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>3</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
@@ -53,11 +48,6 @@
 			<true/>
 		</dict>
 		<key>6B6B8FC31DB1EB2D00FC5763</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>EBEE64B11DB1D453001DBB3D</key>
 		<dict>
 			<key>primary</key>
 			<true/>

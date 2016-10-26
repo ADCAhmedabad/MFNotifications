@@ -16,7 +16,11 @@ class NotificationViewController: UIViewController, UNNotificationContentExtensi
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         // Do any required interface initialization here.
+    }
+    
+    @IBAction func btnClicked(_ sender: AnyObject) {
     }
     
     func didReceive(_ notification: UNNotification) {

@@ -4,11 +4,6 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AnimatedNotification.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>3</integer>
-		</dict>
 		<key>CustomeNotification.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -24,19 +19,9 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>TestingNotifications.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>4</integer>
-		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>61860EA91DB2004E005D2BBC</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
 		<key>6B53DBAD1DAF68BD009A76CD</key>
 		<dict>
 			<key>primary</key>
@@ -48,11 +33,6 @@
 			<true/>
 		</dict>
 		<key>6B53DBCC1DAF68BE009A76CD</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>6B6B8FC31DB1EB2D00FC5763</key>
 		<dict>
 			<key>primary</key>
 			<true/>

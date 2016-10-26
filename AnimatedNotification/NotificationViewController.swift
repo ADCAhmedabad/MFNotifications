@@ -11,6 +11,7 @@ import UserNotifications
 import UserNotificationsUI
 
 class NotificationViewController: UIViewController, UNNotificationContentExtension {
+    @IBOutlet var labelHorizontalCenterConstraint: NSLayoutConstraint!
 
     @IBOutlet var label: UILabel?
     
@@ -20,7 +21,17 @@ class NotificationViewController: UIViewController, UNNotificationContentExtensi
     }
     
     func didReceive(_ notification: UNNotification) {
-        self.label?.text = notification.request.content.body
+        //self.label?.text = notification.request.content.body
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        
+        UIView.animate(withDuration: 1, animations: {
+            self.label?.transform = CGAffineTransform(scaleX: 2.0, y: 2.0)
+            }, completion: nil)
+        
+        
     }
 
 }

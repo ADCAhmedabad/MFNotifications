@@ -1,5 +1,5 @@
 # MFNotifications
-Demonstrating Rich Notifications with Images, Video, Gifs. iOS 10 features via Notifications. 
+Demonstrating iOS 10 Rich Notifications with Images, Video, Gifs.
 --
 
 ![](./Notification1.gif)
